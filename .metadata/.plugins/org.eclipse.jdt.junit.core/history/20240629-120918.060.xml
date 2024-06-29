@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculatorsTest" project="demo" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.example.demo.Calculator.CalculatorsTest" time="0.042" displayname="CalculatorsTest" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.Calculator.CalculatorsTest]">
+    <testcase name="divisionTest" classname="com.example.demo.Calculator.CalculatorsTest" time="0.035" displayname="divisionTest()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.Calculator.CalculatorsTest]/[method:divisionTest()]"/>
+    <testcase name="additionTest" classname="com.example.demo.Calculator.CalculatorsTest" time="0.001" displayname="additionTest()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.Calculator.CalculatorsTest]/[method:additionTest()]"/>
+    <testcase name="multiplicationTest" classname="com.example.demo.Calculator.CalculatorsTest" time="0.001" displayname="multiplicationTest()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.Calculator.CalculatorsTest]/[method:multiplicationTest()]"/>
+    <testcase name="substractionTest" classname="com.example.demo.Calculator.CalculatorsTest" time="0.002" displayname="substractionTest()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.Calculator.CalculatorsTest]/[method:substractionTest()]"/>
+  </testsuite>
+</testrun>
