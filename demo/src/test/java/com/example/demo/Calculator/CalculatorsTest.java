@@ -11,6 +11,8 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import com.example.demo.Classes.Calculators;
+
 class CalculatorsTest {
 
 	Calculators c= new Calculators();

@@ -1,4 +1,4 @@
-package com.example.demo.Calculator;
+package com.example.demo.Classes;
 
 public class EvenOdd {
 
